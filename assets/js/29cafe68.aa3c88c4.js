@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksiderakb_website=self.webpackChunksiderakb_website||[]).push([[418],{1272:e=>{e.exports=JSON.parse('{"title":"ErgoSNM Keyboard","slug":"/category/ergosnm","permalink":"/docs/category/ergosnm","navigation":{"previous":{"title":"Introduction","permalink":"/docs/intro"},"next":{"title":"Intro","permalink":"/docs/ergosnm/intro"}}}')}}]);

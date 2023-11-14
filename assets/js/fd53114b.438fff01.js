@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksiderakb_website=self.webpackChunksiderakb_website||[]).push([[529],{4641:e=>{e.exports=JSON.parse('{"title":"General Guide","slug":"/category/general-guide","permalink":"/docs/category/general-guide","navigation":{"previous":{"title":"RP Micro","permalink":"/docs/rp-micro"},"next":{"title":"DFU Mode","permalink":"/docs/general-guide/dfu"}}}')}}]);
