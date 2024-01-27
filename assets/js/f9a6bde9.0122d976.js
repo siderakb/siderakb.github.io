@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksiderakb_website=self.webpackChunksiderakb_website||[]).push([[840],{8344:e=>{e.exports=JSON.parse('{"title":"General Guide","slug":"/category/general-guide","permalink":"/docs/category/general-guide","navigation":{"previous":{"title":"Introduction","permalink":"/docs/intro"},"next":{"title":"DFU Mode","permalink":"/docs/general-guide/dfu"}}}')}}]);
